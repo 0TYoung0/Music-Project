@@ -1,2 +1,2 @@
-# YearProjectMusic
-This project is to test music with processing. 
+# Music Project
+This project is to test sound and music with processing. 
